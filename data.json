@@ -1,0 +1,333 @@
+{
+    "packages": [
+        {
+          "id": 10,
+          "name": "Aladin",
+          "img": ""
+        },
+        {
+          "id": 1,
+          "name": "1001-Nacht",
+          "img": ""
+        },
+        {
+          "id": 2,
+          "name": "Sahara",
+          "img": ""
+        },
+        {
+            "id": 3,
+            "name": "Extra-Platten",
+            "img": ""
+          },
+          {
+            "id": 4,
+            "name": "Dessert",
+            "img": ""
+          }
+      ],
+
+      "Dishes":[
+        {
+            "id":0,
+            "name":"Humus(Dips)",
+            "package_id":0
+        },
+        {
+          "id":1,
+          "name":"Muhamara(Dips)",
+          "package_id":0
+      },
+      {
+        "id":2,
+        "name":"Mutabal(Dips)",
+        "package_id":0
+    },
+    {
+      "id":3,
+      "name":"Fatoush(Salate)",
+      "package_id":0
+  },
+  {
+    "id":4,
+    "name":"Tabuleh(Salate)",
+    "package_id":0
+},
+{
+  "id":5,
+  "name":"Fasuliye(Salate)",
+  "package_id":0
+},
+{
+  "id":6,
+  "name":"Fatayer Käse(Teigwaren)",
+  "package_id":0
+},
+{
+  "id":7,
+  "name":"Sambusak Hackfleisch (Teigwaren)",
+  "package_id":0
+},
+{
+  "id":8,
+  "name":"Mozarella Stick (Teigwaren)",
+  "package_id":0
+},
+{
+  "id":9,
+  "name":"Musakhan (Teigwaren)",
+  "package_id":0
+},
+
+{
+  "id":10,
+  "name":"Yalangi Weinblätter (Extra)",
+  "package_id":0
+},
+{
+  "id":11,
+  "name":"Pink Humus (Dips)",
+  "package_id":1
+},
+{
+"id":12,
+"name":"Muhamara (Dips)",
+"package_id":1
+},
+{
+"id":13,
+"name":"Mutabal(Dips)",
+"package_id":1
+},
+{
+"id":14,
+"name":"Fatoush(Salate)",
+"package_id":1
+},
+{
+"id":15,
+"name":"Tabuleh(Salate)",
+"package_id":1
+},
+{
+"id":16,
+"name":"Fasuliye(Salate)",
+"package_id":1
+},
+{
+"id":17,
+"name":"Auberginen (Salate)",
+"package_id":1
+},
+{
+"id":18,
+"name":"Linsen (Salate)",
+"package_id":1
+},
+{
+"id":19,
+"name":"Bulgur (Salate)",
+"package_id":1
+},
+{
+"id":20,
+"name":"Baba Ganush (Salate)",
+"package_id":1
+},
+
+{
+"id":21,
+"name":"Fatayer Käse (Teigwaren)",
+"package_id":1
+},
+{
+  "id":22,
+  "name":" Fatayer Hackfleisch (Teigwaren)",
+  "package_id":1
+},
+{
+"id":23,
+"name":"Fatayer Oregano (Teigwaren)",
+"package_id":1
+},
+{
+"id":24,
+"name":"Fatayer Paprika (Teigwaren)",
+"package_id":1
+},
+{
+"id":25,
+"name":"Sambusak Hackfleisch (Teigwaren)",
+"package_id":1
+},
+{
+"id":26,
+"name":"Sambusak Spinat (Teigwaren)",
+"package_id":1
+},
+{
+"id":27,
+"name":"Pizza (Teigwaren)",
+"package_id":1
+},
+{
+"id":28,
+"name":"Kibbeh (Teigwaren)",
+"package_id":1
+},
+{
+"id":29,
+"name":"Mozarella Stick (Teigwaren)",
+"package_id":1
+},
+{
+"id":30,
+"name":"Musakhan (Teigwaren)",
+"package_id":1
+},
+{
+"id":31,
+"name":"Yalangi Weinblätter (Extra)",
+"package_id":1
+},
+
+{
+  "id":32,
+  "name":"Kibeh Nayeh (Extra)",
+  "package_id":1
+  },
+
+  {
+    "id":33,
+    "name":"Pink Humus (Dips)",
+    "package_id":2
+  },
+  {
+  "id":34,
+  "name":"Muhamara (Dips)",
+  "package_id":2
+  },
+  {
+  "id":35,
+  "name":"Mutabal(Dips)",
+  "package_id":2
+  },
+  {
+  "id":36,
+  "name":"Fatoush(Salate)",
+  "package_id":2
+  },
+  {
+  "id":37,
+  "name":"Tabuleh(Salate)",
+  "package_id":2
+  },
+  {
+  "id":38,
+  "name":"Fasuliye(Salate)",
+  "package_id":2
+  },
+  {
+  "id":39,
+  "name":"Auberginen (Salate)",
+  "package_id":2
+  },
+  {
+  "id":40,
+  "name":"Linsen (Salate)",
+  "package_id":2
+  },
+  {
+  "id":41,
+  "name":"Bulgur (Salate)",
+  "package_id":2
+  },
+  {
+  "id":42,
+  "name":"Baba Ganush (Salate)",
+  "package_id":2
+  },
+  
+  {
+  "id":43,
+  "name":"Fatayer Käse (Teigwaren)",
+  "package_id":2
+  },
+
+  {
+  "id":44,
+  "name":"Fatayer Oregano (Teigwaren)",
+  "package_id":2
+  },
+  {
+  "id":45,
+  "name":"Fatayer Paprika (Teigwaren)",
+  "package_id":2
+  },
+
+  {
+  "id":46,
+  "name":"Sambusak Spinat (Teigwaren)",
+  "package_id":2
+  },
+  {
+  "id":47,
+  "name":"Pizza (Teigwaren)",
+  "package_id":2
+  },
+  {
+  "id":48,
+  "name":"Kibbeh (Extra)",
+  "package_id":2
+  },
+  {
+  "id":49,
+  "name":"Mozarella Stick (Teigwaren)",
+  "package_id":2
+  },
+  
+  {
+    "id":50,
+    "name":"Yalangi Weinblätter (Extra)",
+    "package_id":2
+    },
+
+    {
+      "id":51,
+      "name":"Sandwich Platte (Extraplatte)",
+      "package_id":3
+      },
+      {
+      "id":52,
+      "name":"Vegatarische Sandwich Platte (Extraplatte)",
+      "package_id":3
+      },
+    
+      {
+      "id":53,
+      "name":"Käse Platte mit Obst und Nüssen (Extraplatte)",
+      "package_id":3
+      },
+      {
+      "id":54,
+      "name":"Milchreis mit Orangen Pudding (Dessert)",
+      "package_id":4
+      },
+      {
+      "id":55,
+      "name":"Griess und Mascarpone Rolle (Dessert)",
+      "package_id":4
+      },
+      {
+      "id":56,
+      "name":"Mini Pancake mit Macarpone und Pistazien (Dessert)",
+      "package_id":4
+      }
+      
+       
+
+
+
+
+      ]
+}
